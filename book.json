@@ -1,5 +1,15 @@
-"pluginsConfig": {
-    "theme-default": {
-        "showLevel": true
+{
+  "plugins": [
+    "intopic-toc"
+  ],
+  "pluginsConfig": {
+    "intopic-toc": {
+      "selector": ".markdown-section h2",
+      "visible": true,
+      "label": {
+        "de": "In diesem Artikel",
+        "en": "In this article"
+      },
     }
+  }
 }
