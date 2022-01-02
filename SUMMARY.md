@@ -10,3 +10,7 @@
 
 * [Open Source Tools](ethical-hacking-tools/open-source-tools/README.md)
   * [tomnomnom](ethical-hacking-tools/open-source-tools/tomnomnom.md)
+
+## Other Resources
+
+* [Git Books](other-resources/git-books.md)
