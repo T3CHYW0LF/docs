@@ -15,3 +15,7 @@
 ## Other Resources
 
 * [Git Books](other-resources/git-books.md)
+
+## Example Workflows
+
+* [Example-Workflow-1](example-workflows/example-workflow-1.md)
