@@ -12,10 +12,10 @@
   * [tomnomnom](ethical-hacking-tools/open-source-tools/tomnomnom.md)
   * [kenzer with zulip](ethical-hacking-tools/open-source-tools/kenzer-with-zulip.md)
 
-## Other Resources
-
-* [Git Books](other-resources/git-books.md)
-
 ## Example Workflows
 
 * [Example-Workflow-1](example-workflows/example-workflow-1.md)
+
+## Other Resources
+
+* [Git Books](other-resources/git-books.md)
