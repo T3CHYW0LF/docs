@@ -1,15 +1,10 @@
 {
-  "plugins": [
-    "intopic-toc"
-  ],
+  "plugins": [ "page-toc" ],
   "pluginsConfig": {
-    "intopic-toc": {
-      "selector": ".markdown-section h2",
-      "visible": true,
-      "label": {
-        "de": "In diesem Artikel",
-        "en": "In this article"
-      },
+    "page-toc": {
+      "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
+      "position": "before-first",
+      "showByDefault": true
     }
   }
 }
