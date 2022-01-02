@@ -9,8 +9,9 @@
 ## Ethical Hacking Tools
 
 * [Open Source Tools](ethical-hacking-tools/open-source-tools/README.md)
-  * [tomnomnom](ethical-hacking-tools/open-source-tools/tomnomnom.md)
   * [kenzer with zulip](ethical-hacking-tools/open-source-tools/kenzer-with-zulip.md)
+  * [Sn1per](ethical-hacking-tools/open-source-tools/sn1per.md)
+  * [tomnomnom](ethical-hacking-tools/open-source-tools/tomnomnom.md)
 
 ## Example Workflows
 
