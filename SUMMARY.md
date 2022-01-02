@@ -8,4 +8,5 @@
 
 ## Ethical Hacking Tools
 
-* [Open Source Tools](ethical-hacking-tools/open-source-tools.md)
+* [Open Source Tools](ethical-hacking-tools/open-source-tools/README.md)
+  * [tomnomnom](ethical-hacking-tools/open-source-tools/tomnomnom.md)
