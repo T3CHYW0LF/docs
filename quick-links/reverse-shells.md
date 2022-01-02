@@ -1,8 +1,9 @@
 ---
+showToc: true
+---
 cover: >-
   https://images.unsplash.com/photo-1638734990506-f04273578da0?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDExNTA4OTg&ixlib=rb-1.2.1&q=85
 coverY: 0
-showToc: true
 ---
 
 # Reverse Shells
