@@ -1,3 +1,3 @@
 # Welcome
 
-Simple site to store quick tips and code snippets from various resources.
+Simple GitBook site to keep track of some Cybersecurity tips, resources, and code snippets.
