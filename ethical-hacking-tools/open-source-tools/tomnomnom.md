@@ -4,6 +4,12 @@
 
 ### Setup
 
+GitHub Repo:
+
+```
+https://github.com/tomnomnom/assetfinder
+```
+
 Original setup:
 
 ```
